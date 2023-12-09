@@ -1,3 +1,10 @@
+https://old.mccme.ru//circles//oim/home/combtop13.htm#students
+
+Course `Introduction to topology; 
+discrete structures and algorithms in topology' (Russian: Введение в 
+топологию; дискретные структуры и алгоритмы в топологии) by A. Rukhovich 
+and A. Skopenkov at Moscow Institute of Physics and Technology.
+
 RU
 Данная программа способна находить по заданному иероглифу количество краевых окружностей. 
 После компиляции введите корректный иероглиф (не более 25 ленточек).
