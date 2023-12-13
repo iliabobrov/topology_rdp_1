@@ -1,4 +1,4 @@
-https://old.mccme.ru//circles//oim/home/combtop13.htm#students
+https://old.mccme.ru//circles//oim/home/combtop13.htm#fivt
 
 Course `Introduction to topology; 
 discrete structures and algorithms in topology' (Russian: Введение в 
